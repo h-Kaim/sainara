@@ -15,5 +15,11 @@ h2{
 }
 
 .bg-transparent {
+    opacity: 0.3;
+    padding: 100px 0;
+    width: 100%;
     background-image: url(PC100240.JPG);
+    background-size:  cover;                /* 画像のサイズ指定 */
+    background-repeat: no-repeat;
+    background-position: right;
   }
