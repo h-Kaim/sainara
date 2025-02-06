@@ -13,14 +13,22 @@
     background-image: url(PC100240.JPG);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right;
+    background-position: center;
 }
 
 .toumei{
     background-color: rgba(255, 255, 255, 0.562);
 }
 
+title{
+    font-family: "Hiragino Maru Gothic Pro";
+}
+
 h2{
+    font-family: "Hiragino Maru Gothic Pro";
+}
+
+h3{
     font-family: "Hiragino Maru Gothic Pro";
 }
 
